@@ -3,7 +3,7 @@ A personal collection of PyTorch learning materials, practice scripts, and mini-
 
 # Clone the repo
 git clone https://github.com/jamshedali18/pytorch-.git
-
+ 
 # Move into the repo folder
 cd pytorch-
 
